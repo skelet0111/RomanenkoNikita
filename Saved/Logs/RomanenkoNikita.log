@@ -1209,3 +1209,606 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.05-15.48.48:496][771]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2021.10.05-15.48.48:554][771]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
 [2021.10.05-15.48.48:649][772]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.10.05-15.51.52:106][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LVL1_geegbrains" FILE="../../../../../Geegbrains/20.09.2021/РоманенкоНикита/Content/LVL1_geegbrains.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.05-15.51.52:114][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.10.05-15.51.52:130][100]LogSavePackage: Moving '../../../../../Geegbrains/20.09.2021/РоманенкоНикита/Saved/LVL1_geegbrains99CE51244FFF55058BF5699DF76ABB45.tmp' to '../../../../../Geegbrains/20.09.2021/РоманенкоНикита/Content/LVL1_geegbrains.umap'
+[2021.10.05-15.51.52:212][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LVL1_geegbrains_BuiltData" FILE="../../../../../Geegbrains/20.09.2021/РоманенкоНикита/Content/LVL1_geegbrains_BuiltData.uasset" SILENT=true
+[2021.10.05-15.51.52:297][100]LogSavePackage: Moving '../../../../../Geegbrains/20.09.2021/РоманенкоНикита/Saved/LVL1_geegbrains_BuiltDataE5E8175B4C84EA02A380379C07B34E50.tmp' to '../../../../../Geegbrains/20.09.2021/РоманенкоНикита/Content/LVL1_geegbrains_BuiltData.uasset'
+[2021.10.05-15.51.52:302][100]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.05-15.51.52:302][100]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/LVL1_geegbrains_BuiltData.LVL1_geegbrains_BuiltData
+[2021.10.05-15.51.52:302][100]LogContentValidation: Display: Validating World /Game/LVL1_geegbrains.LVL1_geegbrains
+[2021.10.05-16.08.01:236][125]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Lamp.Lamp
+[2021.10.05-16.08.01:884][125]LogBlueprintEditor: Perf: 0.5 total seconds to load all 5 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2021.10.05-16.08.01:884][125]LogBlueprintEditor: Perf: 0.3 seconds loading: /Engine/ArtTools/RenderToTexture/Macros/RenderToTextureFunctionLibrary
+[2021.10.05-16.08.02:856][125]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0020 seconds. Added 126 classes and 0 folders.
+[2021.10.05-16.08.05:118][125]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy MESHDATAKEY_STATICMESH_940C97E946F545F5834146D0D58828BF_514143F1A4E40A55F19673D6F3EC8D3B.
+[2021.10.05-16.08.05:118][125]LogDerivedDataCache: Display: Failed to write MESHDATAKEY_STATICMESH_940C97E946F545F5834146D0D58828BF_514143F1A4E40A55F19673D6F3EC8D3B to HierarchicalDerivedDataBackend. Error: 0 (Операция успешно завершена.)
+[2021.10.05-16.08.05:187][125]LogSlate: Took 0.008775 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.10.05-16.09.32:352][313]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.10.05-16.09.32:355][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LVL1_geegbrains" FILE="../../../../../Geegbrains/20.09.2021/РоманенкоНикита/Saved/Autosaves/Game/LVL1_geegbrains_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.10.05-16.09.32:370][313]LogSavePackage: Moving '../../../../../Geegbrains/20.09.2021/РоманенкоНикита/Saved/LVL1_geegbrains_Auto101FB6E0943A4F247A702C5B9482A44C1.tmp' to '../../../../../Geegbrains/20.09.2021/РоманенкоНикита/Saved/Autosaves/Game/LVL1_geegbrains_Auto1.umap'
+[2021.10.05-16.09.32:370][313]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LVL1_geegbrains' took 0.073
+[2021.10.05-16.09.32:371][313]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.073
+[2021.10.05-16.09.32:371][313]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Lamp] ([2] browsable assets)...
+[2021.10.05-16.09.32:433][313]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Lamp.Lamp]
+[2021.10.05-16.09.32:433][313]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lamp]
+[2021.10.05-16.09.32:433][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lamp" FILE="../../../../../Geegbrains/20.09.2021/РоманенкоНикита/Saved/Autosaves/Game/Lamp_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.10.05-16.09.32:535][313]LogSavePackage: Moving '../../../../../Geegbrains/20.09.2021/РоманенкоНикита/Saved/Lamp_Auto13D91FFF74B554305AA9B57B0EFEB330D.tmp' to '../../../../../Geegbrains/20.09.2021/РоманенкоНикита/Saved/Autosaves/Game/Lamp_Auto1.uasset'
+[2021.10.05-16.09.32:541][313]LogFileHelpers: Auto-saving content packages took 0.171
+[2021.10.05-16.11.43:695][386]SourceControl: fatal: /Script: '/Script' is outside repository at 'D:/Geegbrains/20.09.2021/РоманенкоНикита'
+[2021.10.05-16.19.33:016][196]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2021.10.05-16.19.33:017][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LVL1_geegbrains" FILE="../../../../../Geegbrains/20.09.2021/РоманенкоНикита/Saved/Autosaves/Game/LVL1_geegbrains_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.10.05-16.19.33:030][196]LogSavePackage: Moving '../../../../../Geegbrains/20.09.2021/РоманенкоНикита/Saved/LVL1_geegbrains_Auto295EFB3784A63130520FCAEBFA5436D4E.tmp' to '../../../../../Geegbrains/20.09.2021/РоманенкоНикита/Saved/Autosaves/Game/LVL1_geegbrains_Auto2.umap'
+[2021.10.05-16.19.33:031][196]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LVL1_geegbrains' took 0.045
+[2021.10.05-16.19.33:031][196]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.045
+[2021.10.05-16.19.33:031][196]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Lamp] ([2] browsable assets)...
+[2021.10.05-16.19.33:051][196]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Lamp.Lamp]
+[2021.10.05-16.19.33:051][196]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lamp]
+[2021.10.05-16.19.33:051][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lamp" FILE="../../../../../Geegbrains/20.09.2021/РоманенкоНикита/Saved/Autosaves/Game/Lamp_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2021.10.05-16.19.33:066][196]LogSavePackage: Moving '../../../../../Geegbrains/20.09.2021/РоманенкоНикита/Saved/Lamp_Auto2C0FDE8744E6072ADFAECC5BAEE887217.tmp' to '../../../../../Geegbrains/20.09.2021/РоманенкоНикита/Saved/Autosaves/Game/Lamp_Auto2.uasset'
+[2021.10.05-16.19.33:067][196]LogFileHelpers: Auto-saving content packages took 0.035
+[2021.10.05-16.29.15:435][102]LogAnalytics: Warning: EventCache either took too long to flush (1.445 ms) or had a very large payload (0.434 KB, 1 events). Listing events in the payload for investigation:
+[2021.10.05-16.29.15:436][102]LogAnalytics: Warning:     Editor.Usage.Heartbeat,431
+[2021.10.05-16.29.33:605][155]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2021.10.05-16.29.33:607][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LVL1_geegbrains" FILE="../../../../../Geegbrains/20.09.2021/РоманенкоНикита/Saved/Autosaves/Game/LVL1_geegbrains_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.10.05-16.29.33:621][155]LogSavePackage: Moving '../../../../../Geegbrains/20.09.2021/РоманенкоНикита/Saved/LVL1_geegbrains_Auto3112B85C7406FCC0A7B31849B8AF64B6B.tmp' to '../../../../../Geegbrains/20.09.2021/РоманенкоНикита/Saved/Autosaves/Game/LVL1_geegbrains_Auto3.umap'
+[2021.10.05-16.29.33:621][155]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LVL1_geegbrains' took 0.059
+[2021.10.05-16.29.33:621][155]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.059
+[2021.10.05-16.29.33:622][155]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Lamp] ([2] browsable assets)...
+[2021.10.05-16.29.33:641][155]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Lamp.Lamp]
+[2021.10.05-16.29.33:641][155]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lamp]
+[2021.10.05-16.29.33:641][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lamp" FILE="../../../../../Geegbrains/20.09.2021/РоманенкоНикита/Saved/Autosaves/Game/Lamp_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2021.10.05-16.29.33:656][155]LogSavePackage: Moving '../../../../../Geegbrains/20.09.2021/РоманенкоНикита/Saved/Lamp_Auto3AC573FAE422D80F42849568CF977C9CF.tmp' to '../../../../../Geegbrains/20.09.2021/РоманенкоНикита/Saved/Autosaves/Game/Lamp_Auto3.uasset'
+[2021.10.05-16.29.33:671][155]LogFileHelpers: Auto-saving content packages took 0.050
+[2021.10.05-17.32.02:196][328]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.10.05-17.32.02:196][328]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.10.05-17.32.03:696][472]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.05-17.32.03:702][472]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.10.05-17.32.03:703][472]LogPlayLevel: [PlayLevel] Compiling Lamp before play...
+[2021.10.05-17.32.03:778][472]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2021.10.05-17.32.03:785][472]LogPlayLevel: PlayLevel: Blueprint regeneration took 75 ms (1 blueprints)
+[2021.10.05-17.32.03:786][472]PIE: New page: PIE session: LVL1_geegbrains (6 окт. 2021 г., 03:32:03)
+[2021.10.05-17.32.03:786][472]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LVL1_geegbrains
+[2021.10.05-17.32.03:802][472]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015919s)
+[2021.10.05-17.32.03:803][472]LogAIModule: Creating AISystem for world LVL1_geegbrains
+[2021.10.05-17.32.03:803][472]LogPlayLevel: PIE: World Init took: (0.001352s)
+[2021.10.05-17.32.03:803][472]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LVL1_geegbrains.LVL1_geegbrains to /Game/UEDPIE_0_LVL1_geegbrains.LVL1_geegbrains (0.017453s)
+[2021.10.05-17.32.03:826][472]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2021.10.05-17.32.03:826][472]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.10.05-17.32.03:826][472]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.05-17.32.03:826][472]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.05-17.32.03:826][472]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.05-17.32.03:826][472]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.05-17.32.03:826][472]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.05-17.32.03:826][472]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.05-17.32.03:826][472]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.05-17.32.03:826][472]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.05-17.32.03:827][472]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.05-17.32.03:827][472]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.05-17.32.03:827][472]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.05-17.32.03:827][472]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.05-17.32.03:833][472]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.05-17.32.03:833][472]LogAudioMixer: Display: 1: FrontRight
+[2021.10.05-17.32.03:847][472]LogAudioMixer: Display: Using Audio Device Динамики (Logitech G430 Gaming Headset)
+[2021.10.05-17.32.03:847][472]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.05-17.32.03:847][472]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.05-17.32.03:847][472]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.05-17.32.03:848][472]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.05-17.32.03:848][472]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.05-17.32.03:848][472]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.05-17.32.03:849][472]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.05-17.32.03:849][472]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.05-17.32.03:849][472]LogInit: FAudioDevice initialized.
+[2021.10.05-17.32.03:849][472]LogAudio: Display: Audio Device (ID: 3) registered with world 'LVL1_geegbrains'.
+[2021.10.05-17.32.03:864][472]LogLoad: Game class is 'MainGM_C'
+[2021.10.05-17.32.03:866][472]LogWorld: Bringing World /Game/UEDPIE_0_LVL1_geegbrains.LVL1_geegbrains up for play (max tick rate 0) at 2021.10.05-22.32.03
+[2021.10.05-17.32.03:867][472]LogWorld: Bringing up level for play took: 0.002237
+[2021.10.05-17.32.03:867][472]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.10.05-17.32.03:901][472]PIE: Server logged in
+[2021.10.05-17.32.03:901][472]PIE: Play in editor total start time 0,201 seconds.
+[2021.10.05-17.32.15:797][833]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.05-17.32.15:797][833]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LVL1_geegbrains
+[2021.10.05-17.32.15:797][833]LogWorld: UWorld::CleanupWorld for LVL1_geegbrains, bSessionEnded=true, bCleanupResources=true
+[2021.10.05-17.32.15:798][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.05-17.32.15:810][833]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.05-17.32.15:831][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.05-17.32.15:853][833]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.05-17.32.15:853][833]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.05-17.32.15:854][833]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.05-17.32.15:861][833]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.10.05-17.32.15:896][834]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.10.05-17.32.17:694][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lamp" FILE="../../../../../Geegbrains/20.09.2021/РоманенкоНикита/Content/Lamp.uasset" SILENT=true
+[2021.10.05-17.32.17:711][  0]LogSavePackage: Moving '../../../../../Geegbrains/20.09.2021/РоманенкоНикита/Saved/Lamp7A64E940435B67B655BC7BA13B74C6BF.tmp' to '../../../../../Geegbrains/20.09.2021/РоманенкоНикита/Content/Lamp.uasset'
+[2021.10.05-17.32.17:740][  0]AssetCheck: New page: Asset Save: Lamp
+[2021.10.05-17.32.17:741][  0]LogContentValidation: Display: Validating Blueprint /Game/Lamp.Lamp
+[2021.10.05-17.32.20:796][308]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2021.10.05-17.32.22:187][465]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.05-17.32.22:193][465]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.05-17.32.22:193][465]PIE: New page: PIE session: LVL1_geegbrains (6 окт. 2021 г., 03:32:22)
+[2021.10.05-17.32.22:194][465]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LVL1_geegbrains
+[2021.10.05-17.32.22:198][465]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004792s)
+[2021.10.05-17.32.22:199][465]LogAIModule: Creating AISystem for world LVL1_geegbrains
+[2021.10.05-17.32.22:200][465]LogPlayLevel: PIE: World Init took: (0.001257s)
+[2021.10.05-17.32.22:200][465]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LVL1_geegbrains.LVL1_geegbrains to /Game/UEDPIE_0_LVL1_geegbrains.LVL1_geegbrains (0.006221s)
+[2021.10.05-17.32.22:222][465]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.10.05-17.32.22:223][465]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.10.05-17.32.22:223][465]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.05-17.32.22:223][465]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.05-17.32.22:223][465]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.05-17.32.22:223][465]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.05-17.32.22:223][465]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.05-17.32.22:223][465]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.05-17.32.22:223][465]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.05-17.32.22:223][465]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.05-17.32.22:224][465]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.05-17.32.22:224][465]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.05-17.32.22:224][465]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.05-17.32.22:224][465]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.05-17.32.22:230][465]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.05-17.32.22:230][465]LogAudioMixer: Display: 1: FrontRight
+[2021.10.05-17.32.22:243][465]LogAudioMixer: Display: Using Audio Device Динамики (Logitech G430 Gaming Headset)
+[2021.10.05-17.32.22:243][465]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.05-17.32.22:243][465]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.05-17.32.22:243][465]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.05-17.32.22:243][465]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.05-17.32.22:243][465]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.05-17.32.22:243][465]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.05-17.32.22:245][465]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.05-17.32.22:245][465]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.05-17.32.22:245][465]LogInit: FAudioDevice initialized.
+[2021.10.05-17.32.22:245][465]LogAudio: Display: Audio Device (ID: 4) registered with world 'LVL1_geegbrains'.
+[2021.10.05-17.32.22:253][465]LogLoad: Game class is 'MainGM_C'
+[2021.10.05-17.32.22:255][465]LogWorld: Bringing World /Game/UEDPIE_0_LVL1_geegbrains.LVL1_geegbrains up for play (max tick rate 0) at 2021.10.05-22.32.22
+[2021.10.05-17.32.22:255][465]LogWorld: Bringing up level for play took: 0.001864
+[2021.10.05-17.32.22:256][465]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.10.05-17.32.22:259][465]PIE: Server logged in
+[2021.10.05-17.32.22:260][465]PIE: Play in editor total start time 0,069 seconds.
+[2021.10.05-17.32.25:248][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.05-17.32.25:248][814]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LVL1_geegbrains
+[2021.10.05-17.32.25:248][814]LogWorld: UWorld::CleanupWorld for LVL1_geegbrains, bSessionEnded=true, bCleanupResources=true
+[2021.10.05-17.32.25:248][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.05-17.32.25:260][814]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.05-17.32.25:279][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.05-17.32.25:299][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.05-17.32.25:299][814]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.05-17.32.25:301][814]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.05-17.32.25:306][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2021.10.05-17.32.25:342][815]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.10.05-17.32.26:245][920]LogEditorViewport: Clicking Background
+[2021.10.05-17.32.26:947][  0]LogEditorViewport: Clicking Background
+[2021.10.05-17.32.32:696][667]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.05-17.32.32:702][667]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.05-17.32.32:702][667]PIE: New page: PIE session: LVL1_geegbrains (6 окт. 2021 г., 03:32:32)
+[2021.10.05-17.32.32:726][667]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LVL1_geegbrains
+[2021.10.05-17.32.32:732][667]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005190s)
+[2021.10.05-17.32.32:733][667]LogAIModule: Creating AISystem for world LVL1_geegbrains
+[2021.10.05-17.32.32:733][667]LogPlayLevel: PIE: World Init took: (0.001142s)
+[2021.10.05-17.32.32:733][667]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LVL1_geegbrains.LVL1_geegbrains to /Game/UEDPIE_0_LVL1_geegbrains.LVL1_geegbrains (0.006534s)
+[2021.10.05-17.32.32:754][667]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2021.10.05-17.32.32:755][667]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.10.05-17.32.32:755][667]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.05-17.32.32:755][667]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.05-17.32.32:755][667]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.05-17.32.32:755][667]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.05-17.32.32:755][667]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.05-17.32.32:755][667]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.05-17.32.32:756][667]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.05-17.32.32:756][667]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.05-17.32.32:756][667]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.05-17.32.32:756][667]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.05-17.32.32:756][667]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.05-17.32.32:756][667]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.05-17.32.32:763][667]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.05-17.32.32:763][667]LogAudioMixer: Display: 1: FrontRight
+[2021.10.05-17.32.32:775][667]LogAudioMixer: Display: Using Audio Device Динамики (Logitech G430 Gaming Headset)
+[2021.10.05-17.32.32:775][667]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.05-17.32.32:775][667]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.05-17.32.32:775][667]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.05-17.32.32:775][667]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.05-17.32.32:775][667]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.05-17.32.32:775][667]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.05-17.32.32:777][667]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.05-17.32.32:777][667]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.05-17.32.32:777][667]LogInit: FAudioDevice initialized.
+[2021.10.05-17.32.32:777][667]LogAudio: Display: Audio Device (ID: 5) registered with world 'LVL1_geegbrains'.
+[2021.10.05-17.32.32:788][667]LogLoad: Game class is 'MainGM_C'
+[2021.10.05-17.32.32:791][667]LogWorld: Bringing World /Game/UEDPIE_0_LVL1_geegbrains.LVL1_geegbrains up for play (max tick rate 0) at 2021.10.05-22.32.32
+[2021.10.05-17.32.32:791][667]LogWorld: Bringing up level for play took: 0.002097
+[2021.10.05-17.32.32:792][667]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.10.05-17.32.32:795][667]PIE: Server logged in
+[2021.10.05-17.32.32:796][667]PIE: Play in editor total start time 0,095 seconds.
+[2021.10.05-17.32.39:457][446]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.05-17.32.39:457][446]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LVL1_geegbrains
+[2021.10.05-17.32.39:458][446]LogWorld: UWorld::CleanupWorld for LVL1_geegbrains, bSessionEnded=true, bCleanupResources=true
+[2021.10.05-17.32.39:458][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.05-17.32.39:469][446]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.05-17.32.39:472][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.05-17.32.39:493][446]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.05-17.32.39:493][446]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.05-17.32.39:494][446]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.05-17.32.39:500][446]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.10.05-17.32.39:535][449]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.10.05-17.33.04:774][641]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2021.10.05-17.33.04:775][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LVL1_geegbrains" FILE="../../../../../Geegbrains/20.09.2021/РоманенкоНикита/Saved/Autosaves/Game/LVL1_geegbrains_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.10.05-17.33.04:794][641]LogSavePackage: Moving '../../../../../Geegbrains/20.09.2021/РоманенкоНикита/Saved/LVL1_geegbrains_Auto4F75662904001E1D305522EB3C22D452B.tmp' to '../../../../../Geegbrains/20.09.2021/РоманенкоНикита/Saved/Autosaves/Game/LVL1_geegbrains_Auto4.umap'
+[2021.10.05-17.33.04:803][641]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LVL1_geegbrains' took 0.064
+[2021.10.05-17.33.04:803][641]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.064
+[2021.10.05-17.34.34:623][285]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Fan.fan
+[2021.10.05-17.35.17:553][884]LogSlate: Window 'fan' being destroyed
+[2021.10.05-17.35.17:558][884]LogSlate: Window 'fan' being destroyed
+[2021.10.05-17.35.17:587][884]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.10.05-17.35.17:587][884]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.05-17.35.17:664][884]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.10.05-17.35.17:664][884]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.10.05-17.35.17:664][884]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.05-17.35.19:458][ 67]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Fan.fan
+[2021.10.05-17.35.29:835][ 54]BlueprintLog: New page: Compile fan
+[2021.10.05-17.35.29:879][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.10.05-17.35.29:983][ 54]LogSlate: Took 0.035386 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.10.05-17.35.38:587][292]LogSlate: Window 'fan' being destroyed
+[2021.10.05-17.35.38:592][292]LogSlate: Window 'fan' being destroyed
+[2021.10.05-17.35.38:626][292]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.10.05-17.35.38:626][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.05-17.35.41:394][573]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Lamp.Lamp
+[2021.10.05-17.37.36:327][597]BlueprintLog: New page: Compile Lamp
+[2021.10.05-17.37.36:374][597]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2021.10.05-17.37.38:441][814]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.05-17.37.38:447][814]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.05-17.37.38:447][814]PIE: New page: PIE session: LVL1_geegbrains (6 окт. 2021 г., 03:37:38)
+[2021.10.05-17.37.38:476][814]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LVL1_geegbrains
+[2021.10.05-17.37.38:481][814]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004791s)
+[2021.10.05-17.37.38:482][814]LogAIModule: Creating AISystem for world LVL1_geegbrains
+[2021.10.05-17.37.38:482][814]LogPlayLevel: PIE: World Init took: (0.001172s)
+[2021.10.05-17.37.38:482][814]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LVL1_geegbrains.LVL1_geegbrains to /Game/UEDPIE_0_LVL1_geegbrains.LVL1_geegbrains (0.006175s)
+[2021.10.05-17.37.38:505][814]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2021.10.05-17.37.38:506][814]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.10.05-17.37.38:506][814]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.05-17.37.38:506][814]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.05-17.37.38:506][814]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.05-17.37.38:506][814]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.05-17.37.38:506][814]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.05-17.37.38:506][814]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.05-17.37.38:506][814]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.05-17.37.38:506][814]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.05-17.37.38:507][814]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.05-17.37.38:507][814]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.05-17.37.38:507][814]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.05-17.37.38:507][814]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.05-17.37.38:512][814]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.05-17.37.38:512][814]LogAudioMixer: Display: 1: FrontRight
+[2021.10.05-17.37.38:524][814]LogAudioMixer: Display: Using Audio Device Динамики (Logitech G430 Gaming Headset)
+[2021.10.05-17.37.38:524][814]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.05-17.37.38:524][814]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.05-17.37.38:524][814]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.05-17.37.38:525][814]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.05-17.37.38:525][814]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.05-17.37.38:525][814]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.05-17.37.38:526][814]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.05-17.37.38:526][814]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.05-17.37.38:526][814]LogInit: FAudioDevice initialized.
+[2021.10.05-17.37.38:526][814]LogAudio: Display: Audio Device (ID: 6) registered with world 'LVL1_geegbrains'.
+[2021.10.05-17.37.38:538][814]LogLoad: Game class is 'MainGM_C'
+[2021.10.05-17.37.38:540][814]LogWorld: Bringing World /Game/UEDPIE_0_LVL1_geegbrains.LVL1_geegbrains up for play (max tick rate 0) at 2021.10.05-22.37.38
+[2021.10.05-17.37.38:541][814]LogWorld: Bringing up level for play took: 0.002020
+[2021.10.05-17.37.38:541][814]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.10.05-17.37.38:544][814]PIE: Server logged in
+[2021.10.05-17.37.38:545][814]PIE: Play in editor total start time 0,1 seconds.
+[2021.10.05-17.38.04:391][907]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.05-17.38.04:391][907]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LVL1_geegbrains
+[2021.10.05-17.38.04:391][907]LogWorld: UWorld::CleanupWorld for LVL1_geegbrains, bSessionEnded=true, bCleanupResources=true
+[2021.10.05-17.38.04:392][907]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.05-17.38.04:410][907]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.05-17.38.04:420][907]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.05-17.38.04:459][907]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.05-17.38.04:459][907]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.05-17.38.04:461][907]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.05-17.38.04:464][907]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.05-17.38.04:468][907]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2021.10.05-17.38.04:488][908]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.10.05-17.38.07:501][243]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.05-17.38.07:507][243]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.05-17.38.07:507][243]PIE: New page: PIE session: LVL1_geegbrains (6 окт. 2021 г., 03:38:07)
+[2021.10.05-17.38.07:507][243]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LVL1_geegbrains
+[2021.10.05-17.38.07:512][243]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004927s)
+[2021.10.05-17.38.07:513][243]LogAIModule: Creating AISystem for world LVL1_geegbrains
+[2021.10.05-17.38.07:513][243]LogPlayLevel: PIE: World Init took: (0.001025s)
+[2021.10.05-17.38.07:513][243]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LVL1_geegbrains.LVL1_geegbrains to /Game/UEDPIE_0_LVL1_geegbrains.LVL1_geegbrains (0.006101s)
+[2021.10.05-17.38.07:535][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.10.05-17.38.07:536][243]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.10.05-17.38.07:536][243]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.05-17.38.07:536][243]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.05-17.38.07:536][243]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.05-17.38.07:536][243]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.05-17.38.07:536][243]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.05-17.38.07:536][243]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.05-17.38.07:536][243]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.05-17.38.07:536][243]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.05-17.38.07:537][243]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.05-17.38.07:537][243]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.05-17.38.07:537][243]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.05-17.38.07:537][243]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.05-17.38.07:542][243]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.05-17.38.07:542][243]LogAudioMixer: Display: 1: FrontRight
+[2021.10.05-17.38.07:553][243]LogAudioMixer: Display: Using Audio Device Динамики (Logitech G430 Gaming Headset)
+[2021.10.05-17.38.07:554][243]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.05-17.38.07:554][243]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.05-17.38.07:554][243]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.05-17.38.07:554][243]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.05-17.38.07:554][243]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.05-17.38.07:554][243]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.05-17.38.07:555][243]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.05-17.38.07:555][243]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.05-17.38.07:556][243]LogInit: FAudioDevice initialized.
+[2021.10.05-17.38.07:556][243]LogAudio: Display: Audio Device (ID: 7) registered with world 'LVL1_geegbrains'.
+[2021.10.05-17.38.07:565][243]LogLoad: Game class is 'MainGM_C'
+[2021.10.05-17.38.07:568][243]LogWorld: Bringing World /Game/UEDPIE_0_LVL1_geegbrains.LVL1_geegbrains up for play (max tick rate 0) at 2021.10.05-22.38.07
+[2021.10.05-17.38.07:568][243]LogWorld: Bringing up level for play took: 0.001809
+[2021.10.05-17.38.07:568][243]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.10.05-17.38.07:571][243]PIE: Server logged in
+[2021.10.05-17.38.07:572][243]PIE: Play in editor total start time 0,066 seconds.
+[2021.10.05-17.38.17:427][414]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.05-17.38.17:427][414]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LVL1_geegbrains
+[2021.10.05-17.38.17:427][414]LogWorld: UWorld::CleanupWorld for LVL1_geegbrains, bSessionEnded=true, bCleanupResources=true
+[2021.10.05-17.38.17:428][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.05-17.38.17:442][414]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.05-17.38.17:448][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.05-17.38.17:485][414]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.05-17.38.17:486][414]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.05-17.38.17:487][414]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.05-17.38.17:493][414]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2021.10.05-17.38.17:512][415]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.10.05-17.39.48:027][949]BlueprintLog: New page: Compile Lamp
+[2021.10.05-17.39.48:071][949]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2021.10.05-17.39.50:226][179]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.05-17.39.50:232][179]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.05-17.39.50:232][179]PIE: New page: PIE session: LVL1_geegbrains (6 окт. 2021 г., 03:39:50)
+[2021.10.05-17.39.50:266][179]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LVL1_geegbrains
+[2021.10.05-17.39.50:271][179]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004771s)
+[2021.10.05-17.39.50:272][179]LogAIModule: Creating AISystem for world LVL1_geegbrains
+[2021.10.05-17.39.50:272][179]LogPlayLevel: PIE: World Init took: (0.001100s)
+[2021.10.05-17.39.50:272][179]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LVL1_geegbrains.LVL1_geegbrains to /Game/UEDPIE_0_LVL1_geegbrains.LVL1_geegbrains (0.006115s)
+[2021.10.05-17.39.50:294][179]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.10.05-17.39.50:294][179]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.10.05-17.39.50:295][179]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.05-17.39.50:295][179]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.05-17.39.50:295][179]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.05-17.39.50:295][179]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.05-17.39.50:295][179]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.05-17.39.50:295][179]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.05-17.39.50:295][179]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.05-17.39.50:295][179]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.05-17.39.50:295][179]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.05-17.39.50:295][179]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.05-17.39.50:295][179]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.05-17.39.50:295][179]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.05-17.39.50:301][179]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.05-17.39.50:301][179]LogAudioMixer: Display: 1: FrontRight
+[2021.10.05-17.39.50:313][179]LogAudioMixer: Display: Using Audio Device Динамики (Logitech G430 Gaming Headset)
+[2021.10.05-17.39.50:313][179]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.05-17.39.50:313][179]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.05-17.39.50:313][179]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.05-17.39.50:314][179]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.05-17.39.50:314][179]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.05-17.39.50:314][179]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.05-17.39.50:315][179]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.05-17.39.50:315][179]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.05-17.39.50:315][179]LogInit: FAudioDevice initialized.
+[2021.10.05-17.39.50:315][179]LogAudio: Display: Audio Device (ID: 8) registered with world 'LVL1_geegbrains'.
+[2021.10.05-17.39.50:324][179]LogLoad: Game class is 'MainGM_C'
+[2021.10.05-17.39.50:327][179]LogWorld: Bringing World /Game/UEDPIE_0_LVL1_geegbrains.LVL1_geegbrains up for play (max tick rate 0) at 2021.10.05-22.39.50
+[2021.10.05-17.39.50:327][179]LogWorld: Bringing up level for play took: 0.002294
+[2021.10.05-17.39.50:328][179]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.10.05-17.39.50:331][179]PIE: Server logged in
+[2021.10.05-17.39.50:331][179]PIE: Play in editor total start time 0,101 seconds.
+[2021.10.05-17.40.03:238][618]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.05-17.40.03:238][618]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LVL1_geegbrains
+[2021.10.05-17.40.03:238][618]LogWorld: UWorld::CleanupWorld for LVL1_geegbrains, bSessionEnded=true, bCleanupResources=true
+[2021.10.05-17.40.03:239][618]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.05-17.40.03:243][618]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.05-17.40.03:247][618]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.05-17.40.03:267][618]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.05-17.40.03:267][618]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.05-17.40.03:268][618]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.05-17.40.03:270][618]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.05-17.40.03:273][618]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.10.05-17.40.03:316][620]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.10.05-17.40.12:347][286]LogSlate: Window 'Fix Self Context Function References' being destroyed
+[2021.10.05-17.40.14:847][551]BlueprintLog: New page: Compile Lamp
+[2021.10.05-17.40.14:886][551]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2021.10.05-17.40.24:444][581]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.Lamp_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.10.05-17.40.24:445][581]LogPhysics: Warning: Scale for /Game/LVL1_geegbrains.LVL1_geegbrains:PersistentLevel.Lamp_2.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.10.05-17.40.24:445][581]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.Lamp_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.10.05-17.40.24:455][582]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.Lamp_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.10.05-17.40.24:466][583]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.Lamp_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.10.05-17.40.24:478][584]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.Lamp_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.10.05-17.40.24:642][600]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.Lamp_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.10.05-17.40.24:643][600]LogPhysics: Warning: Scale for /Game/LVL1_geegbrains.LVL1_geegbrains:PersistentLevel.Lamp_2.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.10.05-17.40.24:643][600]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.Lamp_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.10.05-17.40.24:653][601]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.Lamp_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.10.05-17.40.24:664][602]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.Lamp_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.10.05-17.40.24:675][603]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.Lamp_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.10.05-17.41.27:494][220]BlueprintLog: New page: Compile Lamp
+[2021.10.05-17.41.27:629][220]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.10.05-17.41.29:848][443]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.05-17.41.29:854][443]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.05-17.41.29:854][443]PIE: New page: PIE session: LVL1_geegbrains (6 окт. 2021 г., 03:41:29)
+[2021.10.05-17.41.29:877][443]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LVL1_geegbrains
+[2021.10.05-17.41.29:886][443]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008902s)
+[2021.10.05-17.41.29:888][443]LogAIModule: Creating AISystem for world LVL1_geegbrains
+[2021.10.05-17.41.29:888][443]LogPlayLevel: PIE: World Init took: (0.002380s)
+[2021.10.05-17.41.29:888][443]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LVL1_geegbrains.LVL1_geegbrains to /Game/UEDPIE_0_LVL1_geegbrains.LVL1_geegbrains (0.011559s)
+[2021.10.05-17.41.29:922][443]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2021.10.05-17.41.29:923][443]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.10.05-17.41.29:923][443]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.05-17.41.29:923][443]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.05-17.41.29:923][443]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.05-17.41.29:923][443]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.05-17.41.29:923][443]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.05-17.41.29:923][443]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.05-17.41.29:923][443]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.05-17.41.29:923][443]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.05-17.41.29:923][443]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.05-17.41.29:924][443]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.05-17.41.29:924][443]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.05-17.41.29:924][443]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.05-17.41.29:930][443]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.05-17.41.29:930][443]LogAudioMixer: Display: 1: FrontRight
+[2021.10.05-17.41.29:945][443]LogAudioMixer: Display: Using Audio Device Динамики (Logitech G430 Gaming Headset)
+[2021.10.05-17.41.29:945][443]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.05-17.41.29:946][443]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.05-17.41.29:946][443]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.05-17.41.29:946][443]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.05-17.41.29:946][443]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.05-17.41.29:946][443]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.05-17.41.29:947][443]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.05-17.41.29:948][443]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.05-17.41.29:948][443]LogInit: FAudioDevice initialized.
+[2021.10.05-17.41.29:948][443]LogAudio: Display: Audio Device (ID: 9) registered with world 'LVL1_geegbrains'.
+[2021.10.05-17.41.29:957][443]LogLoad: Game class is 'MainGM_C'
+[2021.10.05-17.41.29:960][443]LogWorld: Bringing World /Game/UEDPIE_0_LVL1_geegbrains.LVL1_geegbrains up for play (max tick rate 0) at 2021.10.05-22.41.29
+[2021.10.05-17.41.29:960][443]LogWorld: Bringing up level for play took: 0.002188
+[2021.10.05-17.41.29:961][443]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.10.05-17.41.29:964][443]PIE: Server logged in
+[2021.10.05-17.41.29:965][443]PIE: Play in editor total start time 0,112 seconds.
+[2021.10.05-17.41.44:232][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.05-17.41.44:232][143]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LVL1_geegbrains
+[2021.10.05-17.41.44:232][143]LogWorld: UWorld::CleanupWorld for LVL1_geegbrains, bSessionEnded=true, bCleanupResources=true
+[2021.10.05-17.41.44:232][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.05-17.41.44:254][143]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.05-17.41.44:263][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.05-17.41.44:303][143]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.05-17.41.44:304][143]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.05-17.41.44:305][143]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.05-17.41.44:308][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.05-17.41.44:311][143]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2021.10.05-17.41.44:330][144]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.10.05-17.41.52:127][884]BlueprintLog: New page: Compile Lamp
+[2021.10.05-17.41.52:179][884]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2021.10.05-17.41.53:780][ 39]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2021.10.05-17.41.54:583][131]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2021.10.05-17.41.55:876][277]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.05-17.41.55:882][277]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.05-17.41.55:882][277]PIE: New page: PIE session: LVL1_geegbrains (6 окт. 2021 г., 03:41:55)
+[2021.10.05-17.41.55:906][277]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LVL1_geegbrains
+[2021.10.05-17.41.55:911][277]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004734s)
+[2021.10.05-17.41.55:912][277]LogAIModule: Creating AISystem for world LVL1_geegbrains
+[2021.10.05-17.41.55:912][277]LogPlayLevel: PIE: World Init took: (0.001068s)
+[2021.10.05-17.41.55:912][277]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LVL1_geegbrains.LVL1_geegbrains to /Game/UEDPIE_0_LVL1_geegbrains.LVL1_geegbrains (0.005966s)
+[2021.10.05-17.41.55:935][277]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.10.05-17.41.55:935][277]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.10.05-17.41.55:936][277]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.05-17.41.55:936][277]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.05-17.41.55:936][277]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.05-17.41.55:936][277]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.05-17.41.55:936][277]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.05-17.41.55:936][277]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.05-17.41.55:936][277]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.05-17.41.55:936][277]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.05-17.41.55:936][277]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.05-17.41.55:937][277]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.05-17.41.55:937][277]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.05-17.41.55:937][277]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.05-17.41.55:942][277]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.05-17.41.55:942][277]LogAudioMixer: Display: 1: FrontRight
+[2021.10.05-17.41.55:954][277]LogAudioMixer: Display: Using Audio Device Динамики (Logitech G430 Gaming Headset)
+[2021.10.05-17.41.55:954][277]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.05-17.41.55:955][277]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.05-17.41.55:955][277]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.05-17.41.55:955][277]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.05-17.41.55:955][277]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.05-17.41.55:955][277]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.05-17.41.55:956][277]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.05-17.41.55:956][277]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.05-17.41.55:956][277]LogInit: FAudioDevice initialized.
+[2021.10.05-17.41.55:956][277]LogAudio: Display: Audio Device (ID: 10) registered with world 'LVL1_geegbrains'.
+[2021.10.05-17.41.55:968][277]LogLoad: Game class is 'MainGM_C'
+[2021.10.05-17.41.55:971][277]LogWorld: Bringing World /Game/UEDPIE_0_LVL1_geegbrains.LVL1_geegbrains up for play (max tick rate 0) at 2021.10.05-22.41.55
+[2021.10.05-17.41.55:971][277]LogWorld: Bringing up level for play took: 0.002309
+[2021.10.05-17.41.55:971][277]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.10.05-17.41.55:974][277]PIE: Server logged in
+[2021.10.05-17.41.55:975][277]PIE: Play in editor total start time 0,094 seconds.
+[2021.10.05-17.42.06:089][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.05-17.42.06:089][484]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LVL1_geegbrains
+[2021.10.05-17.42.06:089][484]LogWorld: UWorld::CleanupWorld for LVL1_geegbrains, bSessionEnded=true, bCleanupResources=true
+[2021.10.05-17.42.06:090][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.05-17.42.06:109][484]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.05-17.42.06:149][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.05-17.42.06:173][484]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.05-17.42.06:173][484]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.05-17.42.06:175][484]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.05-17.42.06:177][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.05-17.42.06:180][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2021.10.05-17.42.06:212][485]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.10.05-17.42.44:948][762]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.10.05-17.42.44:948][762]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.10.05-17.43.04:752][707]BlueprintLog: New page: Compile Lamp
+[2021.10.05-17.43.04:796][707]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.10.05-17.43.39:439][ 19]BlueprintLog: New page: Compile Lamp
+[2021.10.05-17.43.39:481][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2021.10.05-17.43.40:510][107]LogSlate: Window 'Lamp' being destroyed
+[2021.10.05-17.43.40:514][107]LogSlate: Window 'Lamp' being destroyed
+[2021.10.05-17.43.40:547][107]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.10.05-17.43.40:547][107]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.05-17.43.41:331][187]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2021.10.05-17.43.42:785][348]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2021.10.05-17.43.43:965][486]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.05-17.43.43:971][486]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.05-17.43.43:972][486]PIE: New page: PIE session: LVL1_geegbrains (6 окт. 2021 г., 03:43:43)
+[2021.10.05-17.43.43:997][486]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LVL1_geegbrains
+[2021.10.05-17.43.44:002][486]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004998s)
+[2021.10.05-17.43.44:003][486]LogAIModule: Creating AISystem for world LVL1_geegbrains
+[2021.10.05-17.43.44:003][486]LogPlayLevel: PIE: World Init took: (0.001143s)
+[2021.10.05-17.43.44:003][486]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LVL1_geegbrains.LVL1_geegbrains to /Game/UEDPIE_0_LVL1_geegbrains.LVL1_geegbrains (0.006334s)
+[2021.10.05-17.43.44:025][486]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.10.05-17.43.44:028][486]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.10.05-17.43.44:028][486]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.05-17.43.44:028][486]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.05-17.43.44:028][486]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.05-17.43.44:028][486]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.05-17.43.44:028][486]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.05-17.43.44:028][486]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.05-17.43.44:028][486]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.05-17.43.44:028][486]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.05-17.43.44:028][486]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.05-17.43.44:028][486]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.05-17.43.44:028][486]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.05-17.43.44:028][486]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.05-17.43.44:033][486]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.05-17.43.44:033][486]LogAudioMixer: Display: 1: FrontRight
+[2021.10.05-17.43.44:046][486]LogAudioMixer: Display: Using Audio Device Динамики (Logitech G430 Gaming Headset)
+[2021.10.05-17.43.44:046][486]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.05-17.43.44:046][486]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.05-17.43.44:046][486]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.05-17.43.44:047][486]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.05-17.43.44:047][486]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.05-17.43.44:047][486]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.05-17.43.44:048][486]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.05-17.43.44:048][486]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.05-17.43.44:048][486]LogInit: FAudioDevice initialized.
+[2021.10.05-17.43.44:048][486]LogAudio: Display: Audio Device (ID: 11) registered with world 'LVL1_geegbrains'.
+[2021.10.05-17.43.44:056][486]LogLoad: Game class is 'MainGM_C'
+[2021.10.05-17.43.44:059][486]LogWorld: Bringing World /Game/UEDPIE_0_LVL1_geegbrains.LVL1_geegbrains up for play (max tick rate 0) at 2021.10.05-22.43.44
+[2021.10.05-17.43.44:060][486]LogWorld: Bringing up level for play took: 0.002070
+[2021.10.05-17.43.44:060][486]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.10.05-17.43.44:063][486]PIE: Server logged in
+[2021.10.05-17.43.44:064][486]PIE: Play in editor total start time 0,094 seconds.
+[2021.10.05-17.44.00:778][482]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.05-17.44.00:778][482]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LVL1_geegbrains
+[2021.10.05-17.44.00:778][482]LogWorld: UWorld::CleanupWorld for LVL1_geegbrains, bSessionEnded=true, bCleanupResources=true
+[2021.10.05-17.44.00:779][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.05-17.44.00:786][482]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.05-17.44.00:803][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.05-17.44.00:820][482]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.05-17.44.00:820][482]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.05-17.44.00:821][482]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.05-17.44.00:824][482]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.05-17.44.00:826][482]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2021.10.05-17.44.00:861][483]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.10.05-17.44.03:828][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LVL1_geegbrains" FILE="../../../../../Geegbrains/20.09.2021/РоманенкоНикита/Content/LVL1_geegbrains.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.05-17.44.03:848][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.10.05-17.44.03:865][812]LogSavePackage: Moving '../../../../../Geegbrains/20.09.2021/РоманенкоНикита/Saved/LVL1_geegbrains2FF4C821429AC4C7E63A679613138E0A.tmp' to '../../../../../Geegbrains/20.09.2021/РоманенкоНикита/Content/LVL1_geegbrains.umap'
+[2021.10.05-17.44.03:963][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LVL1_geegbrains_BuiltData" FILE="../../../../../Geegbrains/20.09.2021/РоманенкоНикита/Content/LVL1_geegbrains_BuiltData.uasset" SILENT=true
+[2021.10.05-17.44.04:048][812]LogSavePackage: Moving '../../../../../Geegbrains/20.09.2021/РоманенкоНикита/Saved/LVL1_geegbrains_BuiltDataF3DAE0D741F75B5CBA0E13AD1CE541EF.tmp' to '../../../../../Geegbrains/20.09.2021/РоманенкоНикита/Content/LVL1_geegbrains_BuiltData.uasset'
+[2021.10.05-17.44.04:056][812]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.05-17.44.04:056][812]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/LVL1_geegbrains_BuiltData.LVL1_geegbrains_BuiltData
+[2021.10.05-17.44.04:056][812]LogContentValidation: Display: Validating World /Game/LVL1_geegbrains.LVL1_geegbrains
